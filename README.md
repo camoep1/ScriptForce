@@ -1,2 +1,15 @@
-# ScriptForce
-ScriptForce
+ScriptForce | This instrument for bruteforce rcon password with ip and rcon port.
+Only for ethical purposes and responsibility are you
+
+## How to run this script and bruteforce? (Kali-Linux)
+
+`$ git clone "https://github.com/IronMaster1122/ScriptForce.git"` - 1
+
+`$ cd ScriptForce ` - 2
+
+`$ pip install -r requirements.txt` - 3
+
+`$ python3 connect.py` - 4
+
+`* if you have problems, try this command and return to 2 step:`
+`$ unzip ScriptForce.zip`
