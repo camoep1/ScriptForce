@@ -3,7 +3,7 @@ Only for ethical purposes and responsibility are you
 
 ## How to run this script and bruteforce? (Kali-Linux)
 
-`$ git clone "https://github.com/IronMaster1122/ScriptForce.git"` - 1
+`$ git clone "https://github.com/IronMaster1122/ScriptForce"` - 1
 
 `$ cd ScriptForce ` - 2
 
