@@ -9,7 +9,7 @@ Only for ethical purposes and responsibility are you
 
 `$ pip install -r requirements.txt` - 3
 
-`$ python3 connect.py` - 4
+`$ python3 app.py` - 4
 
 `* if you have problems, try this command and return to 2 step:`
 `$ unzip ScriptForce.zip`
